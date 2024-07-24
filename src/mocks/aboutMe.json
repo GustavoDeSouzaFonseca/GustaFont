@@ -1,0 +1,14 @@
+{
+  "en": {
+    "welcome": "Welcome! I'm",
+    "name": "Gustavo Fonseca.",
+    "profession": "Fullstack Developer",
+    "about": "At 21, I bring passion and creativity to tackle real-world challenges through technology. Let's build the future together!"
+  },
+  "pt-br": {
+    "welcome": "Bem-vindo! Eu sou",
+    "name": "Gustavo Fonseca.",
+    "profession": "Desenvolvedor Fullstack",
+    "about": "Com 21 anos, trago paixão e criatividade para enfrentar desafios do mundo real por meio da tecnologia. Vamos construir o futuro juntos!"
+  }
+}

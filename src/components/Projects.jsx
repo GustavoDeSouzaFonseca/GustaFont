@@ -7,7 +7,7 @@ export default function Projects() {
   return (
     <section 
       className='
-        bg-gradient-to-br to-slate-950 from-slate-700 
+        bg-gradient-to-br to-slate-300 from-slate-400 
         w-full h-[1200px] grid grid-rows-3 grid-cols-2 p-6 
         2xl:h-[750px] 
         xl:h-[500px] 
