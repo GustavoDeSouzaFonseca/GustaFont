@@ -12,7 +12,7 @@ export default function AboutMe({ language, aboutMe }) {
         2xl:h-[750px] 
         xl:h-[500px] 
         md:h-[450px] md:grid-cols-2 md:grid-rows-1
-        pt-16
+        pt-28
     '>
       <div className='text-white'>
         <span id="aboutme-text" className=''>{welcome}</span>

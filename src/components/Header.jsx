@@ -2,7 +2,7 @@ import React from 'react'
 
 export default function Header({ toggleLanguage, language}) {
   return (
-    <header className='bg-transparent w-full h-16 px-10 py-5 grid grid-cols-2 bg-gradient-to-r from-slate-950 to-slate-700 border-b-[1px] border-yellow-600 fixed'>
+    <header className='bg-transparent w-full h-16 px-10 py-5 grid grid-cols-2 bg-gradient-to-r from-slate-950 to-slate-700 border-b-[1px] border-yellow-600 fixed z-10'>
       <h1 className='font-bold text-yellow-600 text-xl font-mono'>{'GustaFont </>'}</h1>
 
       <div className='flex flex-row justify-around text-white'>

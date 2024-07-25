@@ -3,6 +3,7 @@ import Header from '../components/Header'
 import AboutMe from '../components/AboutMe'
 import Projects from '../components/Projects'
 import aboutMe from '../mocks/aboutMe.json';
+import Footer from '../components/Footer';
 
 export default function Menu() {
   const [language, setLanguage] = useState('en');
@@ -18,6 +19,7 @@ export default function Menu() {
       <Header toggleLanguage={toggleLanguage} language={language}/>
       <AboutMe language={language} aboutMe={aboutMe} />
       <Projects />
+      <Footer />
     </>
   )
 }
