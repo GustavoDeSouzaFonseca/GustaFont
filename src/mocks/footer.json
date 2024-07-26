@@ -1,0 +1,20 @@
+{
+  "en": {
+    "contacts": "Contacts",
+    "quote": "Request your Quote",
+    "name": "name",
+    "email": "email",
+    "number": "number",
+    "subject": "subject",
+    "send": "Send"
+  },
+  "pt-br": {
+    "contacts": "Contatos",
+    "quote": "Solicite seu Orçamento",
+    "name": "nome",
+    "email": "email",
+    "number": "número",
+    "subject": "assunto",
+    "send": "Enviar"
+  }
+}

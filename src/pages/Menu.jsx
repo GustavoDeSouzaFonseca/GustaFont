@@ -1,9 +1,13 @@
 import React, { useState } from 'react'
+//components
 import Header from '../components/Header'
 import AboutMe from '../components/AboutMe'
 import Projects from '../components/Projects'
-import aboutMe from '../mocks/aboutMe.json';
 import Footer from '../components/Footer';
+//mocks
+import aboutMe from '../mocks/aboutMe.json';
+import footer from '../mocks/footer.json';
+import header from '../mocks/header.json';
 
 export default function Menu() {
   const [language, setLanguage] = useState('en');
@@ -16,10 +20,10 @@ export default function Menu() {
   
   return (
     <>
-      <Header toggleLanguage={toggleLanguage} language={language}/>
-      <AboutMe language={language} aboutMe={aboutMe} />
+      <Header toggleLanguage={toggleLanguage} language={language} text={header} />
+      <AboutMe language={language} text={aboutMe} />
       <Projects />
-      <Footer />
+      <Footer language={language} text={footer}/>
     </>
   )
 }

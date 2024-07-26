@@ -5,13 +5,13 @@ import CardProject from './CardProject'
 
 export default function Projects() {
   return (
-    <section 
+    <section
+      id='projects'
       className='
-        bg-gradient-to-br to-slate-300 from-slate-400 
-        w-full h-[1200px] grid grid-rows-3 grid-cols-2 p-6 
         2xl:h-[750px] 
         xl:h-[500px] 
         md:h-[450px] md:grid-cols-4 md:grid-rows-1 md:p-10
+        w-full h-[1200px] grid grid-rows-3 grid-cols-2 p-6 bg-gradient-to-br to-slate-300 from-slate-400 
     '>
       <CardProject 
         link={'https://codai-hub.web.app/'}
