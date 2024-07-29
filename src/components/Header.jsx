@@ -6,7 +6,7 @@ export default function Header({ toggleLanguage, language, text}) {
   return (
     <>
       <header className='bg-transparent w-full h-16 px-10 py-5 grid grid-cols-2 bg-gradient-to-br from-slate-950 to-[#1e111d] fixed z-20'>
-        <h1 className='font-bold gradient-text text-xl font-mono'>{'GustaFont </>'}</h1>
+        <a href='#main' className='font-bold gradient-text text-xl font-mono'>{'GustaFont </>'}</a>
 
         <div className='flex flex-row justify-around text-white'>
           <a 

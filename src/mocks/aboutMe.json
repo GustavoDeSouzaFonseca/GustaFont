@@ -1,14 +1,10 @@
 {
   "en": {
-    "welcome": "Welcome! I'm",
-    "name": "Gustavo Fonseca.",
-    "profession": "Fullstack Developer",
-    "about": "At 21, I bring passion and creativity to tackle real-world challenges through technology. Let's build the future together!"
+    "me": "Hello! I'm Gustavo Fonseca, and I am a FullStack Developer with a passion for creating innovative and efficient solutions for technological challenges. With a solid background in Systems Analysis and Development from FIAP, I have comprehensive skills that cover both backend and frontend development.",
+    "btnGoTo": "Go To Linkedin"
   },
   "pt-br": {
-    "welcome": "Bem-vindo! Eu sou",
-    "name": "Gustavo Fonseca.",
-    "profession": "Desenvolvedor Fullstack",
-    "about": "Com 21 anos, trago paixão e criatividade para enfrentar desafios do mundo real por meio da tecnologia. Vamos construir o futuro juntos!"
+    "me": "Olá! Eu sou Gustavo Fonseca, e sou Desenvolvedor FullStack com uma paixão por criar soluções inovadoras e eficientes para desafios tecnológicos. Com uma formação sólida em Análise e Desenvolvimento de Sistemas pela FIAP, tenho habilidades abrangentes que cobrem tanto o desenvolvimento backend quanto o frontend.",
+    "btnGoTo": "Ir para Linkedin"
   }
 }
