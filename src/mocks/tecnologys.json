@@ -1,0 +1,16 @@
+{
+  "en": {
+    "0": "O Node.js is ...",
+    "1": "O JavaScript is ...",
+    "2": "O React is ...",
+    "3": "O ReactNative is ...",
+    "4": "O Python is ..."
+  },
+  "pt-br": {
+    "0": "O Node.js é ...",
+    "1": "O JavaScript é ...",
+    "2": "O React é ...",
+    "3": "O ReactNative é ...",
+    "4": "O Python é ..."
+  }
+}
